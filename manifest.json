@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-09",
+  "total_books": 9,
+  "total_words": 20082,
+  "books": [
+    {
+      "id": "cet4",
+      "name": "CET4 真题核心词",
+      "filename": "cet4.json",
+      "word_count": 1162,
+      "source": "kajweb/dict:CET4luan_1"
+    },
+    {
+      "id": "cet6",
+      "name": "CET6 真题核心词",
+      "filename": "cet6.json",
+      "word_count": 1228,
+      "source": "kajweb/dict:CET6luan_1"
+    },
+    {
+      "id": "kaoyan",
+      "name": "考研必考词汇",
+      "filename": "kaoyan.json",
+      "word_count": 1341,
+      "source": "kajweb/dict:KaoYanluan_1"
+    },
+    {
+      "id": "gaozhong",
+      "name": "高考必备词汇",
+      "filename": "gaozhong.json",
+      "word_count": 3668,
+      "source": "kajweb/dict:GaoZhongluan_2"
+    },
+    {
+      "id": "ielts",
+      "name": "雅思词汇",
+      "filename": "ielts.json",
+      "word_count": 3427,
+      "source": "kajweb/dict:IELTSluan_2"
+    },
+    {
+      "id": "toefl",
+      "name": "TOEFL 词汇",
+      "filename": "toefl.json",
+      "word_count": 4264,
+      "source": "kajweb/dict:TOEFL_3"
+    },
+    {
+      "id": "bec",
+      "name": "BEC 商务英语",
+      "filename": "bec.json",
+      "word_count": 2753,
+      "source": "kajweb/dict:BEC_2"
+    },
+    {
+      "id": "chuzhong",
+      "name": "中考必备词汇",
+      "filename": "chuzhong.json",
+      "word_count": 1420,
+      "source": "kajweb/dict:ChuZhongluan_2"
+    },
+    {
+      "id": "xiaoxue",
+      "name": "小学英语(人教版)",
+      "filename": "xiaoxue.json",
+      "word_count": 819,
+      "source": "kajweb/dict:PEPXiaoXue3-6 (merged 8 sub-volumes)"
+    }
+  ]
+}
