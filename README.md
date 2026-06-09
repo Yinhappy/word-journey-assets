@@ -23,12 +23,6 @@
 | chuzhong | 中考必备词汇 | 1420 | 1.5 MB |
 | xiaoxue | 小学英语(人教版,合并 8 分册) | 819 | 0.7 MB |
 
-## CDN 访问
-
-通过 jsDelivr 加速:
-```
-https://cdn.jsdelivr.net/gh/yhmmd2015/word-journey-assets@main/static/cet6.json
-```
 
 ## 数据来源
 
