@@ -4,12 +4,33 @@ Thumbs.db
 desktop.ini
 $RECYCLE.BIN/
 
-# IDE
+# IDE / 编辑器
 .idea/
 .vscode/
 *.swp
 *.swo
 *~
+.vs/
 
 # 日志
 *.log
+npm-debug.log*
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Python 缓存(将来如果直接在这里跑脚本)
+__pycache__/
+*.pyc
+*.pyo
+
+# 不上传 ZIP 原始文件(数据源,体积大,清洗后不需要)
+*.zip
+
+# 不上传解压后的原始 JSON(3MB+,清洗后会得到更小的)
+*_extracted/
+raw_*/
